@@ -1,5 +1,5 @@
 {
-  "name": "react-native-spotlight-search",
+  "name": "react-native-spotlight-search-with-url",
   "version": "2.2.0",
   "description": "A React Native module for iOS that provides Spotlight search functionality.",
   "main": "index.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdmunro/react-native-spotlight-search.git"
+    "url": "git+https://github.com/acgfbr/react-native-spotlight-search.git"
   },
   "author": "James Munro <me@jdmunro.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jdmunro/react-native-spotlight-search/issues"
+    "url": "https://github.com/acgfbr/react-native-spotlight-search/issues"
   },
   "keywords": [
     "react-native",
@@ -33,7 +33,7 @@
     "spotlight",
     "search"
   ],
-  "homepage": "https://github.com/jdmunro/react-native-spotlight-search#readme",
+  "homepage": "https://github.com/acgfbr/react-native-spotlight-search#readme",
   "peerDependencies": {
     "react-native": "*"
   },
