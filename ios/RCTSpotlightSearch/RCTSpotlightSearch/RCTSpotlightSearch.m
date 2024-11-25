@@ -138,6 +138,7 @@ RCT_EXPORT_METHOD(indexItems:(NSArray *)items resolver:(RCTPromiseResolveBlock)r
         attributeSet.title = item[@"title"];
         attributeSet.contentDescription = item[@"contentDescription"];
         attributeSet.keywords = item[@"keywords"];
+        attributeSet.contentURL = [NSURL URLWithString:item[@"contentUri"]];
         
         if (item[@"thumbnailName"]) {
             UIImage *image = [UIImage imageNamed:item[@"thumbnailName"]];
