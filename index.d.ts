@@ -8,6 +8,7 @@ type SpotlightItem = {
     thumbnailName?: string
     thumbnailData?: string
     keywords?: string[]
+    contentURL?: string
 }
 
 export function indexItems(items: SpotlightItem[]): Promise<void>

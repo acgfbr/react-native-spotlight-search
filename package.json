@@ -1,5 +1,5 @@
 {
-  "name": "react-native-spotlight-search-with-url",
+  "name": "react-native-spotlight-search-with-custom-attr",
   "version": "2.2.0",
   "description": "A React Native module for iOS that provides Spotlight search functionality.",
   "main": "index.js",
